@@ -32,3 +32,4 @@ class Kot extends Model
         return $this->belongsTo(RestaurantTable::class, 'restaurant_table_id');
     }
 }
+

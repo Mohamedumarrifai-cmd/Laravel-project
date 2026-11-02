@@ -647,3 +647,4 @@ class SalesCheckoutService
         return "INV-{$prefix}" . str_pad((string) $nextSeq, 6, '0', STR_PAD_LEFT);
     }
 }
+

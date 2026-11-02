@@ -18,3 +18,4 @@ class KotItem extends Model
         return $this->belongsTo(Kot::class);
     }
 }
+

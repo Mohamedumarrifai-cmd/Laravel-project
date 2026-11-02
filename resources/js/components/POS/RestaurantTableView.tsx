@@ -208,3 +208,4 @@ export const RestaurantTableView: React.FC = () => {
     </div>
   );
 };
+

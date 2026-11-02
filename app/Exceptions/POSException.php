@@ -10,3 +10,4 @@ class ManagerApprovalRequiredException extends POSException {}
 class ShiftNotActiveException extends POSException {}
 class CreditLimitExceededException extends POSException {}
 class PaymentMismatchException extends POSException {}
+

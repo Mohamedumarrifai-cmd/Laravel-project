@@ -39,3 +39,4 @@ class SaleItem extends Model
         return $this->belongsTo(Batch::class);
     }
 }
+

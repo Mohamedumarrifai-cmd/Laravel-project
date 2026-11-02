@@ -18,3 +18,4 @@ class Branch extends Model
         'settings' => 'array',
     ];
 }
+

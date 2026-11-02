@@ -31,3 +31,4 @@ class Customer extends Model
         return $this->hasMany(Sale::class);
     }
 }
+

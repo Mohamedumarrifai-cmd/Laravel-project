@@ -13,3 +13,4 @@ class BusinessType extends Model
         'is_active' => 'boolean',
     ];
 }
+

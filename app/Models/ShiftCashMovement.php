@@ -20,3 +20,4 @@ class ShiftCashMovement extends Model
         return $this->belongsTo(Shift::class);
     }
 }
+

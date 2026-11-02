@@ -11,3 +11,4 @@ class RestaurantTable extends Model
 
     protected $guarded = ['id'];
 }
+

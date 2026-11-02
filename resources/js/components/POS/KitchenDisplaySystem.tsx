@@ -247,3 +247,4 @@ export const KitchenDisplaySystem: React.FC = () => {
     </div>
   );
 };
+

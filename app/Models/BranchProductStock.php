@@ -27,3 +27,4 @@ class BranchProductStock extends Model
         return $this->belongsTo(Branch::class);
     }
 }
+

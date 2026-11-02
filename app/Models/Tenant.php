@@ -37,3 +37,4 @@ class Tenant extends Model
         return $this->hasMany(User::class);
     }
 }
+

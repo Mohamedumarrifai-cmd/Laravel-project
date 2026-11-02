@@ -208,3 +208,4 @@ class EscPosReceiptService
         return $qr;
     }
 }
+
